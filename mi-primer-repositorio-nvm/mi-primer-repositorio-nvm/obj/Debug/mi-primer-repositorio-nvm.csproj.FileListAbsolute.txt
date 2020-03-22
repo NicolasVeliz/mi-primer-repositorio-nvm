@@ -1,0 +1,7 @@
+C:\Users\nicol\Desktop\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\bin\Debug\mi-primer-repositorio-nvm.exe.config
+C:\Users\nicol\Desktop\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\bin\Debug\mi-primer-repositorio-nvm.exe
+C:\Users\nicol\Desktop\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\bin\Debug\mi-primer-repositorio-nvm.pdb
+C:\Users\nicol\Desktop\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\obj\Debug\mi-primer-repositorio-nvm.csprojAssemblyReference.cache
+C:\Users\nicol\Desktop\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\obj\Debug\mi-primer-repositorio-nvm.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\obj\Debug\mi-primer-repositorio-nvm.exe
+C:\Users\nicol\Desktop\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\mi-primer-repositorio-nvm\obj\Debug\mi-primer-repositorio-nvm.pdb
