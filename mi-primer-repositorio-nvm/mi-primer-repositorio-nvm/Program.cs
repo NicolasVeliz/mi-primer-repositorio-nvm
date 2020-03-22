@@ -6,12 +6,23 @@ using System.Threading.Tasks;
 
 namespace mi_primer_repositorio_nvm
 {
-    class MainClass
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("HelloWorld");
-            Console.WriteLine("Visual studio");
+            Person persona1 = new Person();
+            persona1.Name = "Kai";
+            persona1.Age = 20;
+
+
+            Person persona2 = new Person();
+            persona2.Name = "Jamie";
+            persona2.Age = 20;
+
+            Console.WriteLine({persona1.Name} "juega con" {persona2.Name});
+            Console.ReadKey();
         }
-    }
-}
+
+
+    }  
+ }
