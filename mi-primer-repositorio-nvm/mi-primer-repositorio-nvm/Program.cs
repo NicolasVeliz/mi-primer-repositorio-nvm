@@ -11,6 +11,7 @@ namespace mi_primer_repositorio_nvm
         public static void Main(string[] args)
         {
             Console.WriteLine("HelloWorld");
+            Console.WriteLine("Visual studio");
         }
     }
 }
